@@ -1,5 +1,5 @@
 # EBM-Library
-Sometimes you just don't want the whole EBM boilerplate.
+Sometimes you just don't want the whole [EBM boilerplate](git@github.com:alejandrogarciasalas/EBM-Library.git).
 
 The EBM-Library is the EBM as it was originally conceived: A set of Sass partials and mixins to optimize development time.
 
